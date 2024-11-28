@@ -1,0 +1,38 @@
+
+
+* {
+    /* margin: 0; */
+    /* padding: 0; */
+    /* box-sizing: border-box; */
+
+}
+
+div {
+    background-color: aqua;
+
+    h2 {
+        height: 150px;
+        width: 300px;
+        padding: 40px;
+         color: blue;
+    }
+
+    p {
+
+        height: 200px;
+        width: 400px;
+        border: 2px solid red;
+
+        padding: 10px 20px 30px 40px;
+        
+        border-color: rgb(165, 42, 110);
+        border-top: 5px red;
+        border-bottom: 5px green;
+        border-style: dashed;
+        border-radius: 20px;
+        text-align: center;
+       
+
+
+    }
+    
